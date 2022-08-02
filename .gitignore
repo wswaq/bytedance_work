@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+#others
+week4/.parcel-cache
+week4/dist
+week4/node_modules
